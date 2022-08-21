@@ -15,7 +15,7 @@ namespace ConsoleApp2
             FillMatrix(ref matrix);
             DisplayMatrix("Matrix", ref matrix);
             CalculateMatrixParams(ref matrix);
-            RevertMatrix(ref matrix);
+            SortMatrix(ref matrix);
 
             Console.ReadKey();
         }
@@ -92,7 +92,7 @@ namespace ConsoleApp2
             Console.WriteLine();
         }
 
-        private static void RevertMatrix( ref sbyte[,] matrix)
+        private static void SortMatrix( ref sbyte[,] matrix)
         {
             int rows = matrix.GetUpperBound(0) + 1;
             int columns = matrix.Length / rows;
