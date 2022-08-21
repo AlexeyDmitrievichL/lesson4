@@ -1,0 +1,8 @@
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\tms\lesson4\task2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
